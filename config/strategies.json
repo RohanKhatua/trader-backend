@@ -1,0 +1,10 @@
+{
+	"entry_strategies": {
+		"SMA": "strategies.sma.SMAEntry",
+		"RSI": "strategies.rsi.RSIEntry"
+	},
+	"exit_strategies": {
+		"SMA": "strategies.sma.SMAExit",
+		"RSI": "strategies.rsi.RSIExit"
+	}
+}
